@@ -1,0 +1,8 @@
+D:\Senior 2 CSE First Semster\Design of Compilers\Project\CompilersProject\CompilersProject\x64\Debug\CompilersProject.vcxproj.AssemblyReference.cache
+D:\Senior 2 CSE First Semster\Design of Compilers\Project\CompilersProject\CompilersProject\x64\Debug\CompilersProject.vcxproj.SuggestedBindingRedirects.cache
+D:\Senior 2 CSE First Semster\Design of Compilers\Project\CompilersProject\CompilersProject\x64\Debug\CompilersProject.CompilerForm.resources
+D:\Senior 2 CSE First Semster\Design of Compilers\Project\CompilersProject\CompilersProject\x64\Debug\CompilersProject.vcxproj.GenerateResource.cache
+D:\CompilerProject\CompilersProject\x64\Debug\CompilersProject.vcxproj.AssemblyReference.cache
+D:\CompilerProject\CompilersProject\x64\Debug\CompilersProject.CompilerForm.resources
+D:\CompilerProject\CompilersProject\x64\Debug\CompilersProject.vcxproj.GenerateResource.cache
+D:\CompilerProject\CompilersProject\x64\Debug\CompilersProject.exe
